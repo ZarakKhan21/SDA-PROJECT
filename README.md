@@ -5,17 +5,6 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
 
 A comprehensive system for managing final year projects in academic institutions, facilitating student-supervisor coordination, project tracking, and administrative oversight.
-
-## Table of Contents
-- [System Overview](#system-overview)
-- [Features](#features)
-- [Actors and Use Cases](#actors-and-use-cases)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [License](#license)
-
 ## System Overview
 The FYP Management System is designed to streamline the administration of final year projects in universities. It provides tools for:
 - Student project registration and tracking
